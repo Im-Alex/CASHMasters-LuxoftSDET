@@ -1,0 +1,15 @@
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\bin\Debug\net7.0\CashMasterApp.exe
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\bin\Debug\net7.0\CashMasterApp.deps.json
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\bin\Debug\net7.0\CashMasterApp.runtimeconfig.json
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\bin\Debug\net7.0\CashMasterApp.dll
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\bin\Debug\net7.0\CashMasterApp.pdb
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.csproj.AssemblyReference.cache
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.AssemblyInfoInputs.cache
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.AssemblyInfo.cs
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.csproj.CoreCompileInputs.cache
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.dll
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\refint\CashMasterApp.dll
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.pdb
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\CashMasterApp.genruntimeconfig.cache
+C:\Frameworks\C#\CashMasterApp\CashMasterApp\obj\Debug\net7.0\ref\CashMasterApp.dll
