@@ -6,7 +6,7 @@
 
 ## What I did?
 I just create the following clases with similar structure
--Class to read a json ==> Utils
--Main class to run the application 
--Class that serves to calculate the exchange rate ==> Calculator
--Inside Calculator there should be the function calculate exchange rate function that should return the result of the operation.
+- Class to read a json ==> Utils
+- Main class to run the application 
+- Class that serves to calculate the exchange rate ==> Calculator
+- Inside Calculator there should be the function calculate exchange rate function that should return the result of the operation.
